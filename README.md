@@ -2,10 +2,10 @@
 
 # I am Arnav
 
+[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0&count_private=true&show_icons=true&bg_color=090C10&title_color=FE5454&text_color=ffffffff)](https://github.com/arnxv0)
 
 
-
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0&count_private=true&theme=radical)](https://github.com/arnxv0)
+[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arnxv0&count_private=true&show_icons=true&bg_color=090C10&title_color=FE5454&text_color=ffffffff&layout=compact)](https://github.com/arnxv0)
 
 <!--
 **arnxv0/arnxv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
