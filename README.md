@@ -1,11 +1,11 @@
 ### Hello world :)
 
-## I am Arnav
+# I am Arnav
+
+[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0)](https://github.com/arnxv0)
 
 <!--
 **arnxv0/arnxv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0)](https://github.com/arnxv0)
 
 Here are some ideas to get you started:
 
