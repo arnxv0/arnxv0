@@ -1,6 +1,4 @@
-### Hello world :)
-
-# I am Arnav
+# Hello world, Arnav here :)
 
 🎓 Student at PES University
 
@@ -9,6 +7,8 @@
 [![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0&count_private=true&show_icons=true&hide_border=true&bg_color=090C10&title_color=FE5454&text_color=ffffffff)](https://github.com/arnxv0)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnxv0&hide_border=true&background=090C10&sideNums=FE5454&fire=FE5454&stroke=4C71F1&currStreakLabel=FFFFFF&dates=4C71F1&sideLabels=FFFFFF&ring=FE5454&currStreakNum=FE5454)](https://github.com/arnxv0)
+
+![](https://komarev.com/ghpvc/?username=arnxv0)
 
 <!--
 **arnxv0/arnxv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
