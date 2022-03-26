@@ -4,12 +4,13 @@
 
 🎓 Student at PES University
 
-🧪 Experimenting with code like a mad scientist
+🧪 Experimenting with code like a mad scientist xD
 
 🔭 More about my work [here](https://arnxv0.github.io/portfolio/)
 
 
-<br><br><br><br>
+<br><br>
+<br><br>
 
 
 [![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnxv0&count_private=true&show_icons=true&hide_border=true&bg_color=090C10&title_color=FE5454&text_color=ffffffff)](https://github.com/arnxv0)
@@ -32,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 -->
