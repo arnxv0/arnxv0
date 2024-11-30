@@ -2,11 +2,9 @@
 
 <img alt="Insert happy gif here" src="https://i.giphy.com/media/ule4vhcY1xEKQ/200w.webp" align="right" margin="0 20px 0 0"/>
 
-🎓 Student at PES University
-
 🧪 Experimenting with code like a mad scientist xD
 
-🔭 More about my work [here](https://arnxv0.github.io/portfolio/)
+🔭 More about my work [here](https://arnavdewan.dev)
 
 
 <br><br>
